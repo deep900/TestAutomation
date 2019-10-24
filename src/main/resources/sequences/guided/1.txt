@@ -1,2 +1,0 @@
-#Sequence - Robo 1
-#JobName,Type,URL, Header,Request body,initial_delay,wait_time
